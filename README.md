@@ -77,6 +77,8 @@
 - 프로젝트 초기 설정과 개발 환경 구성 (ESLint, Prettier, Husky + lint-staged)
 - 브랜치 전략, 코드 리뷰 절차, 커밋 컨벤션, CI/CD 규칙 문서화
 - 네이티브 앱과 통신하는 브릿지(`nativeBridge`) 구조
+- Google Play 스토어 출시
+🔗 Google Play
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `Zustand`
 
