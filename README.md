@@ -78,7 +78,7 @@
 - 브랜치 전략, 코드 리뷰 절차, 커밋 컨벤션, CI/CD 규칙 문서화
 - 네이티브 앱과 통신하는 브릿지(`nativeBridge`) 구조
 - Google Play 스토어 출시
-🔗 Google Play
+- 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.teamdolink.dolink)
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `Zustand`
 
